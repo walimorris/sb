@@ -1,2 +1,1 @@
-# sb
-Bash script to run newest spring boot starter 
+## Bash script to download the newest spring boot starter zip file.
