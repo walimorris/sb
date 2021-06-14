@@ -1,4 +1,4 @@
-### Bash script to download the newest spring boot starter zip file.
+### Bash script to download the newest spring boot starter zip file.(Not Complete)
 ## Requirements 
 1. Linux - tested on Ubuntu 18.04
 2. [xdg-open](https://linux.die.net/man/1/xdg-open) - script asks your permission to install 
